@@ -1,0 +1,8 @@
+
+{
+  "name": "Lumina Market",
+  "description": "A high-performance e-commerce platform with AI-powered shopping assistance, secure authentication, and a streamlined checkout experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
